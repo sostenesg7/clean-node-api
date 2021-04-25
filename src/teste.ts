@@ -1,5 +1,5 @@
 function teste (): number {
-  return null
+  return ''
 }
 
 teste()
