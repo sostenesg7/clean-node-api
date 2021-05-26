@@ -19,7 +19,7 @@ utilizando Typescript, TDD, DDD, Clean Architecture, Design Patterns e SOLID.
 
 - A API deverá ser construída em **NodeJS** com **TypeScript**
 - Deverão ser seguidos padrões de projetos como Dependence Inversion e Adapters
-- Todas as funcionalidades deverão estar cobertas por teste unitários, de integração e e2e
+- Todas as funcionalidades deverão estar cobertas por testes unitários, de integração e e2e
 - As funcionalidades da aplicação serão:
   - Login
   - Cadastro
